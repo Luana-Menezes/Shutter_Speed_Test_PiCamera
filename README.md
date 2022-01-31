@@ -1,8 +1,7 @@
 # Shutter_Speed_Test_PiCamera
 
-## Referência (não em movimento, mas com clariadade original)
-!()[]
-!()[]
+## Referência (parado com claridade original)
+![](https://github.com/Luana-Menezes/Shutter_Speed_Test_PiCamera/raw/main/refer%C3%AAncia/img_0_0_sports_0_50_2022-01-27_19-04-23.jpg)
 
 ## Teste de longa distância (~65cm)
 Iso 1000,2000,3000,4000,5000.
